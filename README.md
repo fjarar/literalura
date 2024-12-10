@@ -62,6 +62,7 @@ private final String URL_BASE = "https://gutendex.com/books/";
 
 ## Project Structure
 
+```
 literalura/ 
 ├── src/ 
 │├── main/ 
@@ -75,7 +76,7 @@ literalura/
 │ └── test/ # Test files 
 ├── pom.xml # Maven configuration 
 └── README.md # Project documentation
-
+```
 
 ---
 
