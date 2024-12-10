@@ -97,7 +97,7 @@ literalura/
    - Verify the API response structure matches your model.
 
 2. **Invalid API Response**:
-   - Ensure the API URL is correct in `application.properties`.
+   - Ensure the API URL is correct in the `Principal` class.
    - Check your internet connection.
 
 3. **Invalid Input**:
